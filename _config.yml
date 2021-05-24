@@ -72,3 +72,8 @@ google_site_verification : "UA-3958729-1" # Replace this with your ID, or delete
 include:
   - .htaccess
   - _pages
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
