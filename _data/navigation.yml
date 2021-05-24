@@ -23,7 +23,7 @@ main:
   #- title: "Quick-Start Guide"
   #  url: /docs/quick-start-guide/
   - title: "Biography"
-    url: /nagymusic.github.io/biography/
+    url: /biography/
   - title: "Performance"
     url: /performance/
   - title: "Research"
