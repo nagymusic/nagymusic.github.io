@@ -73,6 +73,22 @@ include:
   - .htaccess
   - _pages
 
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  composition:
+    output: true
+    permalink: /:collection/:path/
+  performance:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
