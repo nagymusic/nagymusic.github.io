@@ -73,6 +73,15 @@ include:
   - .htaccess
   - _pages
 
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
 compress_html:
   clippings: all
   ignore:
