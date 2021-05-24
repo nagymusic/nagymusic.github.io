@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "PARMA Recordings CD Release"
 comments: true
 read_time: true
