@@ -1,11 +1,12 @@
 ---
+layout: single
 title: "PARMA Recordings CD Release"
 comments: true
 read_time: true
 header:
   teaser: assets/images/parma-angelus-th.jpg
-  
-categories: 
+
+categories:
   - composition
 tags:
   - recording
@@ -14,7 +15,7 @@ tags:
 ---
 
 #### Angelus: Music for Organ
-PARMA Recordings, Ravello Records 
+PARMA Recordings, Ravello Records
 
 Buy Now from [Amazon.com][amazon-angelus] or direct from [PARMA Recordings][parma-angelus].
 
