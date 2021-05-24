@@ -64,6 +64,11 @@ algolia:
   files_to_exclude:
     - _posts/2017-11-28-post-exclude-search.md
 
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/nagy-index.jpg"
+  bio              : "performer | scholar | composer"
 
 # SEO Related
 google_site_verification : "UA-3958729-1" # Replace this with your ID, or delete
@@ -88,7 +93,7 @@ collections:
   performance:
     output: true
     permalink: /:collection/:path/
-    
+
 # Defaults
 defaults:
   # _posts
