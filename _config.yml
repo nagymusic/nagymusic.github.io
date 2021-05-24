@@ -96,7 +96,11 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 
-
+# SEO Related
+google_site_verification : "UA-3958729-1" # Replace this with your ID, or delete
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
 
 
 
