@@ -12,6 +12,24 @@ toc_label: "Solo"
 author_profile: false
 ---
 
+## Prayer
+
+For organ (2017) 9'
+
+Published by [Paraclete Press](https://paracletesheetmusic.com/product/prayer-2/).
+
+Released on [PARMA Recordings](http://www.ravellorecords.com/catalog/rr7987/index.html).
+
+<iframe width="630" height="250" src="https://www.youtube.com/embed/OdQuSVOimVY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+<div class="notice">
+  <h4>Program Note</h4>
+  <p> Ethereal in spirit, this features slowly changing harmonies with a haunting melody that fades in and out.</p>
+
+  <p>"'Prayer' (2007, rev. 2011) is a short work inspired by Philippians 4:13: “I can do all things through Christ who strengthens me.” It is a musical exploration of some of the same musical material that is revisited at greater length in the latter work, 'Preludes for a Prayer.''" <i>Carson Cooman</i> - PARMA Recordings CD Liner Notes</p>
+</div>
+
 ## [a]new
 
 Clarinet (2018) 5'

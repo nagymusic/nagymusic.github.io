@@ -10,6 +10,17 @@ toc: true
 toc_sticky: true
 toc_label: "Vocal and Choral"
 ---
+## mercy
+
+Unaccompanied SATB choir (2021) 5'
+
+Published by [Universal Edition](https://www.universaledition.com/zvony-nagy-7865/works/mercy-30855).
+
+<div class="notice">
+  <h4>Program Note</h4>
+  <p>Text: <i>Have mercy on me, God, have mercy.</i> (Psalm 57)</p>
+</div>
+
 ## Fide et Amore
 
 Unaccompanied SATB choir (2019) 5'
