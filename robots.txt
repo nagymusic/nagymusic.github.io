@@ -1,1 +1,1 @@
-Sitemap: https://nagymusic.com/sitemap.xml
+Sitemap: https://nagymusic.github.io/sitemap.xml
