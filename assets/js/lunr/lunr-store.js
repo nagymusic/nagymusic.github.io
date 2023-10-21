@@ -45,7 +45,7 @@ var store = [{
         "url": "https://nagymusic.github.io/performance/1_composer-performer/",
         "teaser":"https://nagymusic.github.io/assets/images/organ-interpretation-th-slate.jpg"},{
         "title": "Improvisations",
-        "excerpt":"Organ Improvisations Free Improvisations by Zvonimir Nagy, organistImprovisation Triptych on Croatian Folk Songs Triptych on Croatian Folk Songs by Zvonimir Nagy","categories": [],
+        "excerpt":"Toccata in French Late Romantic Style Improvisation on Schönster Jesu (Beuatiful Savior) Organ Improvisations Free Improvisations by Zvonimir Nagy, organistImprovisation Triptych on Croatian Folk Songs Triptych on Croatian Folk Songs by Zvonimir Nagy","categories": [],
         "tags": [],
         "url": "https://nagymusic.github.io/performance/2_improvisations/",
         "teaser":"https://nagymusic.github.io/assets/images/nagy-improvisation-th-slate.jpg"},{
@@ -490,7 +490,7 @@ var store = [{
         "url": "https://nagymusic.github.io/research/guest-seminar-at-Saybrook-University/",
         "teaser":"https://nagymusic.github.io/assets/images/Saybrook_Logo.jpg"},{
         "title": "Stained Glass Vespers",
-        "excerpt":"Stained Glass Vespers is a new event series at King of Glory Lutheran Church in Dallas, Texas, that celebrates the intersection of fine arts and spirituality brought together with the liturgy of evening prayer, also known as Evensong. Inspired by the sanctuary’s stained-glass windows, designed by Cecil Casebier (1922-1996), each event features a different art form, such as music, literature, film, sculpture, painting, architecture, or performance. The event is free, open to the public, and designed to be accessible to people of all ages and backgrounds. Upcoming Events Pathos of Mercy in Choral Music   Early and contemporary music for choir - March 7, 2024 at 7 p.m.Past Events Organ Improvisations on Sanctuary Stained Glass Windows   Zvony Nagy, organist - October 5, 2003 at 7 p.m.  Program   Creation and Redemption from North Windows  Salvation and Consumation from South WindowsKing of Glory Lutheran Church6411 LBJ FreewayDallas, TX 75240 ","categories": ["performance"],
+        "excerpt":"Stained Glass Vespers is a new event series at King of Glory Lutheran Church in Dallas, Texas, that celebrates the intersection of fine arts and spirituality brought together with the liturgy of evening prayer, also known as Evensong. Inspired by the sanctuary’s stained-glass windows, designed by Cecil Casebier (1922-1996), each event features a different art form, such as music, literature, film, sculpture, painting, architecture, or performance. The event is free, open to the public, and designed to be accessible to people of all ages and backgrounds. ### Upcoming Events#### Pathos of Mercy in Choral Music* Early and contemporary music for choir - March 7, 2024 at 7 p.m.### Past Events#### Organ Improvisations on Sanctuary Stained Glass Windows* Zvony Nagy, organist - October 5, 2003 at 7 p.m.  Program   Creation and Redemption from North Windows  Salvation and Consumation from South WindowsKing of Glory Lutheran Church6411 LBJ FreewayDallas, TX 75240 ","categories": ["performance"],
         "tags": ["sacred music","fine arts","King of Glory Dallas"],
         "url": "https://nagymusic.github.io/performance/stained-glass-verspers/",
         "teaser":"https://nagymusic.github.io/assets/images/stained-glass-vespers.jpg"},{
